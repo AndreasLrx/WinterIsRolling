@@ -1,0 +1,8 @@
+*.o
+my_runner
+bin*
+.vscode*
+datas*
+include/my_containers*
+include/Physics*
+include/My*
