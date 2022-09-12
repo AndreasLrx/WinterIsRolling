@@ -46,3 +46,4 @@ int main(int argc, char **argv)
     destroy_game(data);
     return 0;
 }
+
